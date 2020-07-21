@@ -1,0 +1,8 @@
+title: Benchy Adventure
+description: The jolly 3D printed adventure game!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
