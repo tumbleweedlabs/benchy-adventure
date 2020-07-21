@@ -1,6 +1,8 @@
 ### Summary
 If you own a 3D printer, chances are pretty good you have a bunch of [3D Benchy](http://www.3dbenchy.com/) and [20mm calibration cube](https://www.thingiverse.com/thing:1278865) prints laying around. Benchy Adventure that let's you turn them into a fun adventure at sea! Each player uses a Benchy as their game piece and calibration cubes are [rolled as dice](https://github.com/tumbleweedlabs/benchy-adventure/wiki/Dice-Mechanics).
 
+What's more is everything else you need to play Benchy Adventure can be printed at home on your 3D printer! A quick rules sheet is available as a PDF for your mobile device, or can be printed on your desktop printer. 
+
 ### Designer Templates
 We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
 
